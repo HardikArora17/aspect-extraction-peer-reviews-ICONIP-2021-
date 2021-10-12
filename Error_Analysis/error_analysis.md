@@ -4,12 +4,9 @@
 
 Despite having good performance, our model struggles with some of the challenge cases. We identify some possible reasons which results in misclassification
 in Table 4. Due to the longer review texts, we have provided the clickable OpenReview links to the review texts below:
-
-Review #1 : [Link](https://openreview.net/forum?id=HJenn6VFvB&noteId=HJgFZBKTKB)
-
-Review #2 : [Link](https://openreview.net/forum?id=rJxY_oCqKQ&noteId=rJxW3siwhm)
-
-Review #3 : [Link](https://openreview.net/forum?id=HJenn6VFvB&noteId=HJgFZBKTKB)
+* Review #1 : [Link](https://openreview.net/forum?id=HJenn6VFvB&noteId=HJgFZBKTKB)
+* Review #2 : [Link](https://openreview.net/forum?id=rJxY_oCqKQ&noteId=rJxW3siwhm)
+* Review #3 : [Link](https://openreview.net/forum?id=HJenn6VFvB&noteId=HJgFZBKTKB)
 
 The error for first case is due to shallow semantic reasoning. 
 In the first example, the model does not predict ‘meaningful comparison’. 
