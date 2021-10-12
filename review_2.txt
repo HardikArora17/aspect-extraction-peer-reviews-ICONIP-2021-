@@ -1,0 +1,10 @@
+Review 2:
+0. this work builds on the model agnostic meta learning MAML algorithmand adapts it to make it more sample efficient and able to use expert demon-strations.
+1. to the best of my knowledge, the work is original.
+2. the paper is well presented and polished.
+3. notation is clear.
+4. the prose is easy to understand and i could see no obvious typos.
+5. the article is clear and well organized.
+6. the supplementary material is quite thorough at presenting informationthat could be used to reproduce the experimental results.
+7. i believe that this is an important work in the field of meta learning forreinforcement learning.
+8. improving sample efficiency is key to make those algorithm useful in prac-tice and this paper makes a clear contribution in that respect
